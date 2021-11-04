@@ -6,3 +6,6 @@ Vaperio is a bullet hell that pits you against endless waves of enemies. You mov
 
 ## Project Notes
 This project was uploaded after the jam by myself so the project statistics will say all lines of code are purely pushed by myself. This isn't true and the input by myself and Peter York were equal.
+
+## Future Work
+This project is currently incompatible with versions of Unity from 2020 onwards. I will be aiming to clean up the code and making it more compatible with future versions as well as improving gameplay.
