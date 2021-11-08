@@ -9,3 +9,8 @@ This project was uploaded after the jam by myself so the project statistics will
 
 ## Future Work
 This project is currently incompatible with versions of Unity from 2020 onwards. I will be aiming to clean up the code and making it more compatible with future versions as well as improving gameplay.
+
+## Credits
+**Joseph Hesketh** - Gameplay, AI, Multithreading
+
+**Peter York ** - Gameplay, Multithreading, Assets
